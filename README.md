@@ -18,6 +18,6 @@ allprojects {
 ~~~JAVA
 
 dependencies {
-    implementation 'com.github.Airomantic:RefreshSDK:Tag'
+    implementation 'com.github.Airomantic:RefreshSDK:v1.0.0'
 }
 ~~~
